@@ -49,9 +49,6 @@ Data Transformation:
 - Ability to manipulate and transform data using SQL functions such as DATE functions, string functions, and mathematical functions.
 - Understanding of how to convert data types and format data for analysis.
 
-Data Joining:
-- Skill in joining data from multiple tables using various types of JOIN operations (e.g., INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN).
-- Knowledge of how to specify join conditions and handle NULL values when joining tables.
 
 Subquerying and CTEs:
 - Proficiency in using subqueries (nested queries) to filter or aggregate data based on the results of another query.
@@ -80,9 +77,18 @@ Error Handling and Debugging:
   
 The dataset for the work is gotten from Dahel Consultant Techies. It consists of two tables namely Consolegames and Consoledates. The formaer table consist of 10 fileds and 15,980 records while the later consist of 5 fields and 31 records. I studied the dataset well to gain proper insight into the dataset. You can find a link to download the Consolegames dataset [here:](https://docs.google.com/spreadsheets/d/1XUU8BoYPHLIiyqI9_kYFIsfWXM_7SQitscClUK3rQNo/edit?usp=drive_link) As for the consoledates dataset, you can download it [here](https://docs.google.com/spreadsheets/d/1XUU8BoYPHLIiyqI9_kYFIsfWXM_7SQitscClUK3rQNo/edit?usp=drive_link)
 
+
+   
+
+   
+
    ---
 
-## Data Transformation Analysis:
+
+
+
+
+## Data Transformation and Analysis:
 
 - Several structured queries were written to get the right tables and then saved as views in the Database on PostgreSQL.
   The tabels and views are:
@@ -92,7 +98,13 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/cb05d1d6-accd-4d02-b0cd-aff912285aad)
+
+
+
 
 
 
@@ -102,7 +114,13 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/6525e176-46f3-4bbb-a3c7-1ab02d8f0e0d)
+
+
+
 
 
 
@@ -114,13 +132,20 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/fa5af6b1-28c2-49f1-85ee-7742d7e0c679)
 
    
 
 
 
+
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/67ce4957-345c-4e5b-b248-31f6f4674767)
+
 
 
 
