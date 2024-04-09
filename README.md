@@ -82,61 +82,74 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
    ---
 
-## Data Transformation:
+## Data Transformation Analysis:
 
-**Step 1:**
-- After downloading the dataset, I imported it into POWERBI.
+- Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management Studio.
+  The tabels and views are:
 
-**Step 2:**
-- It loaded the dataset authomatically in Power Query Editor but there was no cleaning needed because it was already a cleaned data.
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/eebdea1b-d69a-4783-a2ad-d76884a465c3)
 
-**Step 3:**
-- For the column cost I assumed it was the cost of production  because I wasn’t sure if It was the selling price or the cost of production 
 
-**Step 4:**
-- After checking the columns, it was loaded into POWERBI for visualization.
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/cb05d1d6-accd-4d02-b0cd-aff912285aad)
+
+
+
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/d6cd65b5-4bc2-4150-909a-5e093869c84e)
+
+
+
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/6525e176-46f3-4bbb-a3c7-1ab02d8f0e0d)
+
+
+
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/27c696fb-43e3-4164-ae3f-eefb9a488116)
+
+
+
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/fa5af6b1-28c2-49f1-85ee-7742d7e0c679)
+
+   
+
+![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/67ce4957-345c-4e5b-b248-31f6f4674767)
+
+
+
+
 
 ---
 
 
-## Data Analysis:
 
-Several expressions and functions were made to arrive at the desired KPI or Metrics.
-I arrived at a report with a single dashboard consisting of different visuals such as bar chart, doughnut chart, line chart, slicer, and KPIs, giving the summary of the insights gained into the company's performance.
-
-## :
-The dashboard conveys information about the following key areas:
-- Total number of orders
-- The total number of pies produced
-- Flavor with the highest order
-- Means of order (pre order or in store purchase)
-- Relationship between the cost and quantity 
-- The total cost per year and month
-
-
-![Dahel_Pie_Bakery](https://github.com/RemedyData/Dahel_Techies_Pie_Day_Sales_Analysis_Internship/assets/137626163/f52b6f58-09fc-4689-be80-52c050396006)
+## Data Model:
 
 
 
-## Analysis
 
-Summary of the insights gained into the chess Game performance: 
 
-- A total of 2,773 orders were placed between 1st of June, 2019 – 1st of November 2021.
-- A total of 8333 pie was produced during that period. The total cost it took to produce the 8333 pie was $96,922.50
-- 51.21% of the pie produced was pre-order while 48.79% of the pie were purchased in store.
-- There were over 6 flavors of pie and the Apple flavor had the highest cost of production followed by Strawberry Rhubarb
-- About 52.51% of pie ordered where whole pie and 47.49% were sliced.
-- The higher the quantity, the higher the cost.
+
+
+
+
+## Insight gained throuhout Analysis:
+
+Summary of the insights gained into the Console dataset performance: 
+
+
+
+
+
+
+
+
 
 
 ## Recommendation
 
-- Due to the uncertainty whether the cost provided is the selling price or the cost of production much recommendation can't really be given. 
-- There’s no way to know which pie flavor generates more profit or the one with the most profit.
-- The Apple flavor is the most ordered pie and it should always be made available. 
-- The PIE should still be made available as both pre-order and in store purchase because there’s no much difference in how customer choose to purchase their price. 
-- Both whole pie and sliced pie should also made available since customers placed other for both and the margin between both isn’t much. About 52.51% of pie ordered where whole pie and 47.49% were sliced.
+
+
+
+
+
 
 
 ---
