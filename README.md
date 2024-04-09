@@ -90,7 +90,10 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/eebdea1b-d69a-4783-a2ad-d76884a465c3)
 
 
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/cb05d1d6-accd-4d02-b0cd-aff912285aad)
+
 
 
 
@@ -98,7 +101,10 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/6525e176-46f3-4bbb-a3c7-1ab02d8f0e0d)
+
+
 
 
 
@@ -106,9 +112,13 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
+
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/fa5af6b1-28c2-49f1-85ee-7742d7e0c679)
 
    
+
+
 
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/67ce4957-345c-4e5b-b248-31f6f4674767)
 
@@ -116,7 +126,9 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 
 
+
 ---
+
 
 
 
