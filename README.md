@@ -84,7 +84,7 @@ The dataset for the work is gotten from Dahel Consultant Techies. It consists of
 
 ## Data Transformation Analysis:
 
-- Several structured queries were written to get the right tables and then saved as views in the Database on SQL Management Studio.
+- Several structured queries were written to get the right tables and then saved as views in the Database on PostgreSQL.
   The tabels and views are:
 
 ![image](https://github.com/RemedyData/Dahel_Console_Games_Sales_Analysis_Internship/assets/137626163/eebdea1b-d69a-4783-a2ad-d76884a465c3)
