@@ -193,4 +193,6 @@ Summary of the insights gained into the Console dataset performance:
 
 ### Thank you for reading.
 
-I am open for entry-level to mid_level data analyst role.
+I am open for data anlalyst role.
+
+Let us have discussion about your company and industry now!
