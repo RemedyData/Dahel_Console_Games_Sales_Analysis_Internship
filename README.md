@@ -195,4 +195,4 @@ Summary of the insights gained into the Console dataset performance:
 
 I am open for data anlalyst role.
 
-Let us have discussion about your company and industry now!
+Let us have discussion about your company now!
